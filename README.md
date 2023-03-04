@@ -20,5 +20,8 @@
 
 ## 设计模式
 
-- 常用设计模式
 ![常用设计模式](https://p.ipic.vip/5gz68z.png)
+
+## Android 消息机制
+
+![Android消息机制](https://p.ipic.vip/zhue4i.png)
