@@ -16,7 +16,7 @@
 - 深入操作系统本源第一弹:操作系统掠影 ↓
 ![深入操作系统本源第一弹:操作系统掠影](https://s2.ax1x.com/2019/04/01/ArjdsA.png)
 - 深入操作系统本源第二弹:进程与线程 ↓
-![深入操作系统本源第二弹:进程与线程](https://ws4.sinaimg.cn/large/006tNc79ly1g24tcyxnw6j31ax0u04jm.jpg)
+![深入操作系统本源第二弹:进程与线程](https://p.ipic.vip/s9m4oa.png)
 
 ## 设计模式
 
@@ -25,3 +25,7 @@
 ## Android 消息机制
 
 ![Android消息机制](https://p.ipic.vip/zhue4i.png)
+
+## Android Binder机制
+
+![AndroidBinder机制](https://p.ipic.vip/8zolvc.png)
