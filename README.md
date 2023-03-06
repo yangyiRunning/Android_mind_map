@@ -29,3 +29,7 @@
 ## Android Binder机制
 
 ![AndroidBinder机制](https://p.ipic.vip/8zolvc.png)
+
+## Android 分区存储
+
+![Android分区存储](https://p.ipic.vip/yrxv99.png)
