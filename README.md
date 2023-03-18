@@ -37,3 +37,7 @@
 ## 计算机网络
 
 ![计算机网络](https://p.ipic.vip/6pjr2o.png)
+
+## Android图形显示与绘制原理（偏硬件绘制）
+
+![Android图形显示与绘制原理（偏硬件绘制）](images/Android图形显示与绘制原理（偏硬件绘制）.png)
