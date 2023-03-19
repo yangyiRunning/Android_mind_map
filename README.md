@@ -40,4 +40,8 @@
 
 ## Android图形显示与绘制原理（偏硬件绘制）
 
-![Android图形显示与绘制原理（偏硬件绘制）](images/Android图形显示与绘制原理（偏硬件绘制）.png)
+![Android图形显示与绘制原理（偏硬件绘制）](https://p.ipic.vip/uxs62r.png)
+
+## Android View的构建（偏软件绘制）
+
+![Android View的构建（偏软件绘制）](https://p.ipic.vip/9xt8s7.png)
