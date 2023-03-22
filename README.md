@@ -44,4 +44,4 @@
 
 ## Android View的构建（偏软件绘制）
 
-![Android View的构建（偏软件绘制）](https://p.ipic.vip/9xt8s7.png)
+![Android View的构建（偏软件绘制）](https://p.ipic.vip/xg2m5j.png)
