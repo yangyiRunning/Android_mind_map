@@ -49,3 +49,7 @@
 ## Gradle专题
 
 ![Gradle专题](https://p.ipic.vip/abff1a.png)
+
+## Jetpack常用组件原理
+
+![Jetpack常用组件原理](https://p.ipic.vip/uwj6el.png)
